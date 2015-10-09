@@ -20,5 +20,4 @@ vignettes/*.pdf
 
 # Zip & OUTPUT
 
-*.csv
-*.zip
+household_power_consumption.*
