@@ -1,4 +1,4 @@
-# project 2 plot1.R
+# project 1 plot2.R
 setwd("~/Desktop/Coursera/exploratory/project1")
 library(dplyr)
 library(data.table)
